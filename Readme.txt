@@ -1,7 +1,4 @@
-# finite_volume_project
-Finite volume method for two dimensional  flow in Porous media
-
-
+Hello World,
 
 Here are breif descriptions of the files in this package
 
@@ -23,3 +20,7 @@ TwoPhaseSimulator_Script: Simulator script (*********input variable parameters h
 
 TwoPhaseSimulatorImplicit.m: main simulator function
 
+
+regards,
+
+JR
